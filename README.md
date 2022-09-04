@@ -1,4 +1,4 @@
-# IMSMRI-Dataset
+# UniMRI Repository
 
 Introduction
 -------------------------------------------
