@@ -9,7 +9,10 @@ The objective of this work is to provide a pre-processed magnetic resonance base
 
 ![img_com_rotulos](https://user-images.githubusercontent.com/49326502/90802677-f85a1080-e2ed-11ea-98f2-0cf11adc92d1.png)
 
+-------------------------------------------
 Reference
+-------------------------------------------
+
 
 @inproceedings{wvc,
  author = {Wellington Silveira and Rafael Korb and Graçaliz Dimuro and Rodrigo Bem},
