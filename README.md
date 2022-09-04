@@ -9,6 +9,24 @@ The objective of this work is to provide a pre-processed magnetic resonance base
 
 ![img_com_rotulos](https://user-images.githubusercontent.com/49326502/90802677-f85a1080-e2ed-11ea-98f2-0cf11adc92d1.png)
 
+Reference
+
+@inproceedings{wvc,
+ author = {Wellington Silveira and Rafael Korb and Graçaliz Dimuro and Rodrigo Bem},
+ title = {UniMRI: Unified Repository of Magnetic Resonance Images for Multiple Sclerosis Diagnosis},
+ booktitle = {Anais do XVII Workshop de Visão Computacional},
+ location = {Online},
+ year = {2021},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {190--194},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/wvc.2021.18912},
+ url = {https://sol.sbc.org.br/index.php/wvc/article/view/18912}
+}
+
+
 Contents
 -------------------------------------------
 
