@@ -8,13 +8,12 @@ Adapted to work with JSON, it supports an unlimited number of databases.
 The objective of this work is to provide a pre-processed magnetic resonance base for the application of multiple sclerosis lesion classification and segmentation algorithms.
 
 ![img_com_rotulos](https://user-images.githubusercontent.com/49326502/90802677-f85a1080-e2ed-11ea-98f2-0cf11adc92d1.png)
------------------------------------------
-Reference
------------------------------------------
 
-
+Citation
+-----------------------------------------
+<pre class="notranslate"><code>
 @inproceedings{wvc,
- author = {Wellington Silveira and Rafael Korb and Graçaliz Dimuro and Rodrigo Bem},
+ author = {Wellington Silveira and Rafael Korb and Graçaliz Dimuro and Rodrigo de Bem},
  title = {UniMRI: Unified Repository of Magnetic Resonance Images for Multiple Sclerosis Diagnosis},
  booktitle = {Anais do XVII Workshop de Visão Computacional},
  location = {Online},
@@ -25,7 +24,11 @@ Reference
  doi = {10.5753/wvc.2021.18912},
  url = {https://sol.sbc.org.br/index.php/wvc/article/view/18912}
 }
+</code></pre>
 
+Acknowledgement
+-----------------------------------------
+This work was supported by the FAPERGS grant ARD-21/2551-0000678-1. Wellington Ferreira da Silveira ́has a PROBITI/FAPERGS scholarship.
 
 Contents
 -------------------------------------------
